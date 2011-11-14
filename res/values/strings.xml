@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">IOIO Servo Controller</string>
     <string name="seekbar_label">~slide to drive servo~</string>
     <string name="swantron">swan tron dot com</string>
-</resources>
+
+   </resources>
