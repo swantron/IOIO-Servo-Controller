@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
       android:versionCode="3"
       android:versionName="3.0" package="swantron.project.servo">
     <uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
         <uses-sdk android:minSdkVersion="10" />  
+=======
+      android:versionCode="2"
+      android:versionName="2.0" package="swantron.project.servo">
+    <uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
+        <uses-sdk android:minSdkVersion="7" />  
+>>>>>>> dd356daa325a2e6f8aa06da7ee33f8becd7a2a46
     <application android:icon="@drawable/icon" android:label="@string/app_name">
         <activity android:name=".MainActivity"
                   android:label="@string/app_name"
