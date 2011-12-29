@@ -21,10 +21,6 @@
 	    android:layout_width="fill_parent" 
 	    android:text="@string/swantron"
 	    android:layout_height="fill_parent"
-<<<<<<< HEAD
 	    android:textSize="80px" />
-=======
-	    android:textSize="50px" />
->>>>>>> dd356daa325a2e6f8aa06da7ee33f8becd7a2a46
 	
 </LinearLayout>
