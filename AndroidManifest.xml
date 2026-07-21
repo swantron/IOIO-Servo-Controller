@@ -3,7 +3,7 @@
       android:versionCode="3"
       android:versionName="3.0" package="swantron.project.servo">
     <uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
-        <uses-sdk android:minSdkVersion="10" />  
+        <uses-sdk android:minSdkVersion="7" />  
     <application android:icon="@drawable/icon" android:label="@string/app_name">
         <activity android:name=".MainActivity"
                   android:label="@string/app_name"
